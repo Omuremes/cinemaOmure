@@ -1,0 +1,72 @@
+[
+    {
+        "title": "Wakanda Forever",
+        "date": "01.01.2025",
+        "time": "12:00",
+        "hall": "ЗАЛ 1",
+        "price": 300
+    },
+    {
+        "title": "Wakanda Forever",
+        "date": "02.01.2025",
+        "time": "3:42",
+        "hall": "ЗАЛ 2",
+        "price": 500
+    },
+    {
+        "title": "Wakanda Forever",
+        "date": "07.01.2025",
+        "time": "3:34",
+        "hall": "ЗАЛ 3",
+        "price": 300
+    },
+    {
+        "title": "Wakanda Forever",
+        "date": "09.01.2025",
+        "time": "5:12",
+        "hall": "ЗАЛ 4",
+        "price": 600
+    },
+    {
+        "title": "Wakanda Forever",
+        "date": "09.01.2025",
+        "time": "5:12",
+        "hall": "ЗАЛ 5",
+        "price": 300
+    },
+    {
+        "title": "Wakanda Forever",
+        "date": "16.01.2025",
+        "time": "8:10",
+        "hall": "ЗАЛ 6",
+        "price": 700
+    },
+    {
+        "title": "Аэлита",
+        "date": "01.01.2025",
+        "time": "0:04",
+        "hall": "ЗАЛ 1",
+        "price": 300
+    },
+    {
+        "title": "Аэлита",
+        "date": "11.01.2025",
+        "time": "10:01",
+        "hall": "ЗАЛ 2",
+        "price": 400
+    },
+    {
+        "title": "Аэлита",
+        "date": "16.01.2025",
+        "time": "10:40",
+        "hall": "ЗАЛ 3",
+        "price": 500
+    },
+    {
+        "title": "Аэлита",
+        "date": "24.01.2025",
+        "time": "12:00",
+        "hall": "ЗАЛ 4",
+        "price": 600
+    }
+]

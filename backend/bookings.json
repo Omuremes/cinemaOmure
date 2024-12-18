@@ -1,0 +1,12 @@
+[
+    {
+        "username": "omure",
+        "movie_title": "Wakanda Forever",
+        "hall": "ЗАЛ 1",
+        "date": "07.01.2025",
+        "time": "5:12",
+        "seats": [
+            1
+        ]
+    }
+]
